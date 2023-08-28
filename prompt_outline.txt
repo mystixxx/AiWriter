@@ -1,0 +1,6 @@
+I want a professional blog on the following topic: "<<REQUEST>>"
+
+I want an outline on the requested topic. The outline should include topics related to the main request and should interest the reader.
+
+SECTIONS:
+1.

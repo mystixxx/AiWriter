@@ -1,0 +1,7 @@
+I have the following blog request to write. I am focusing on writing one section at a time. I need to jot down some notes about this section before I proceed.
+
+I want a professional blog on the following topic: "<<REQUEST>>"
+
+SECTION: <<SECTION>>
+
+Here are my detailed research notes on this section:

@@ -1,0 +1,10 @@
+I found the following list of sections for a blog post requested by the customer. I need to check if there are any more sections that should be included in the list.
+
+I want a professional blog on the following topic: "<<REQUEST>>"
+
+OUTLINE:
+<<OUTLINE>>
+
+Check if you can improve the outline. If there are any topics you think are missing from the list, add them.
+
+1.
