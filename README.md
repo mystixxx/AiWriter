@@ -5,5 +5,5 @@
 3. Povuče kW iz Excel
 4. Napravi outline i članak uz pomoć ChatGPT-a
 5. Formatita u HTML
-6. Povuče slike sa unsplasha uz pomoć Api-a
-7. Autopost na WP
+6. Povuče slike sa unsplasha uz pomoć Api
+7. Autopost na WP
